@@ -2,7 +2,7 @@
 
 - ماهو Git؟
 
-	- حالات الإستخدام
+- حالات الإستخدام
 
 - كيف يعمل Git؟
 
@@ -211,7 +211,6 @@ git checkout -b test
 git checkout master # Return to master branch
 git merge test      # merge test into master
 ````
-
 
 
 ### مخطط الفرع (branch)
