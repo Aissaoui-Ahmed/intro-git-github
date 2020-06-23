@@ -2,7 +2,7 @@
 
 - ماهو Git؟
 
-- حالات الإستخدام
+- حالات الإستخدام?
 
 - كيف يعمل Git؟
 
@@ -216,4 +216,3 @@ git merge test      # merge test into master
 ### مخطط الفرع (branch)
 
 [![](https://mermaid.ink/img/eyJjb2RlIjoiZ2l0R3JhcGg6XG5vcHRpb25zXG57XG4gICAgXCJub2RlU3BhY2luZ1wiOiAxMjAsXG4gICAgXCJub2RlUmFkaXVzXCI6IDEwXG59XG5lbmRcbmNvbW1pdFxuYnJhbmNoIHRlc3RcbmNoZWNrb3V0IHRlc3RcbmNvbW1pdFxuY29tbWl0XG5jaGVja291dCBtYXN0ZXJcbmNvbW1pdFxuY29tbWl0XG5tZXJnZSB0ZXN0XG5cblx0XHRcdFx0XHQiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ2l0R3JhcGg6XG5vcHRpb25zXG57XG4gICAgXCJub2RlU3BhY2luZ1wiOiAxMjAsXG4gICAgXCJub2RlUmFkaXVzXCI6IDEwXG59XG5lbmRcbmNvbW1pdFxuYnJhbmNoIHRlc3RcbmNoZWNrb3V0IHRlc3RcbmNvbW1pdFxuY29tbWl0XG5jaGVja291dCBtYXN0ZXJcbmNvbW1pdFxuY29tbWl0XG5tZXJnZSB0ZXN0XG5cblx0XHRcdFx0XHQiLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)
-
